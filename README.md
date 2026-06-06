@@ -1,4 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
+## NAME: D.Vishwa
+## REG NO: 2305001034
 
 ## Aim:
 
@@ -45,6 +47,7 @@ int main(){
 ## Output:
 
 
+<img width="516" height="217" alt="image" src="https://github.com/user-attachments/assets/e9fd9b29-f028-48aa-b820-4ed5788df9e3" />
 
 ## Result:
 The program is executed successfully
